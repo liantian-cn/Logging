@@ -1,29 +1,5 @@
 # Docker上手Day5（PostgreSQL）
 
-title
-
-:   Docker上手Day5（PostgreSQL）
-
-Date
-
-:   2019-07-13
-
-Modified
-
-:   2019-07-13
-
-Tags
-
-:   Tech
-
-Slug
-
-:   docker-day-5
-
-Summary
-
-:   奇怪的知识点: import/export的缺点，cmd和entrypoint的区别
-
 今天学习到的奇怪的知识点：
 
 -   export/import 丢失的信息比较多：env entrypoint cmd全会丢

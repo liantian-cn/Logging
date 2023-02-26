@@ -1,29 +1,5 @@
 # 在Linux系统中实现RunOnce功能
 
-title
-
-:   在Linux系统中实现RunOnce功能
-
-Date
-
-:   2022-03-01 19:51:13
-
-Modified
-
-:   2022-03-01 19:51:13
-
-Tags
-
-:   UOS, Tech
-
-Slug
-
-:   windows-runonce-in-linux
-
-Summary
-
-:   简单来说\...[就是靠crontab的@reboot功能](mailto:就是靠crontab的@reboot功能)，实现在linux下次开机自动运行一次的效果。
-
 ## 原理
 
 简单来说...就是靠crontab的@reboot功能，实现在linux下次开机自动运行一次的效果。
@@ -54,8 +30,13 @@ Summary
 ### 其他操作
 
 -   新建`/etc/local/runonce.d/ran/`目录
--   修改权限：
-    -   `chown root:root /usr/local/bin/runonce`
-    -   `chmod +x /usr/local/bin/runonce`
-    -   `chown root:root -R /etc/local/runonce.d/`
-    -   `chown root:root -R /etc/cron.d/runonce`
+
+-   修改权限
+
+```
+
+chown root:root /usr/local/bin/runonce
+chmod +x /usr/local/bin/runonce
+chown root:root -R /etc/local/runonce.d/
+chown root:root -R /etc/cron.d/runonce
+```

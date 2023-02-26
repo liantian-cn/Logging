@@ -1,29 +1,5 @@
 # Docker上手Day2（smokeping）
 
-title
-
-:   Docker上手Day2（smokeping）
-
-Date
-
-:   2019-06-30 19:49:36
-
-Modified
-
-:   2019-06-30 19:49:36
-
-Tags
-
-:   Tech
-
-Slug
-
-:   docker-day-2
-
-Summary
-
-:   在Docker中运行smokeping，将lighttpd打包到一个容器内，需要使用supervisord所谓守护进程。
-
 ## Day2
 
 ``` dockerfile
@@ -74,4 +50,4 @@ EXPOSE 32080
     docker import SmokePing.2.7.3-r3.export.tar smokeping:2.7.3-r3
     docker create -p 32080:32080  -v /DATA/config/smokeping.conf:/etc/smokeping/config  --restart always --name SmokePing smokeping:2.7.3-r3 /usr/bin/supervisord
 
-配置文件下载 [smokeping.docker](%7Bstatic%7D/zips/smokeping.docker.zip)
+配置文件下载 [smokeping.docker](smokeping.docker.zip)

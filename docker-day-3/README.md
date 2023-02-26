@@ -1,29 +1,5 @@
 # Docker上手Day3（qBittorrentEE）
 
-title
-
-:   Docker上手Day3（qBittorrentEE）
-
-Date
-
-:   2019-07-03 19:41:50
-
-Modified
-
-:   2019-07-03 19:41:50
-
-Tags
-
-:   Tech
-
-Slug
-
-:   docker-day-3
-
-Summary
-
-:   在Docker中运行qBittorrentEE，这次设计如何使用一个容器编译，另一个容器运行。
-
 ## 安装Docker
 
 参考[https://mirror.tuna.tsinghua.edu.cn/help/docker-ce/](url)

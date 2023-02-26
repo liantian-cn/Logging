@@ -1,28 +1,5 @@
 # 统信UOS如何抗拒组策略不锁屏
 
-Title
-
-:   统信UOS如何抗拒组策略不锁屏
-
-Date
-
-:   2022-06-15
-
-Modified
-
-:   2022-06-15
-
-tags
-
-:   UOS
-
-Slug
-
-:   how-to-disable-lock-screen-policy-in-uos
-
-Summary
-
-:   在windows下，只需要定时移动指针，就可以不锁屏，但是这个方法在UOS下是无效的..
 
 本质上UOS的组策略是由管控服务器下发的一组组脚本。并且定期刷新这些脚本，实现组策略的功能。
 

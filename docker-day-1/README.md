@@ -1,30 +1,7 @@
 # Docker上手Day1（alpine-bash）
 
-title
 
-:   Docker上手Day1（alpine-bash）
-
-Date
-
-:   2019-06-29 20:19:46
-
-Modified
-
-:   2019-06-29 20:19:46
-
-Tags
-
-:   Tech
-
-Slug
-
-:   docker-day-1
-
-Summary
-
-:   在Docker中运行bash，这是从虚拟机转向Docker的基础。
-
--   新建一个DockerFile，内容如下
+新建一个DockerFile，内容如下
 
 ``` bash
 FROM alpine:latest

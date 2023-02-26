@@ -1,29 +1,5 @@
 # redhat升级OpenSSH
 
-title
-
-:   redhat升级OpenSSH
-
-Date
-
-:   2021-12-04 19:04:50
-
-Modified
-
-:   2021-12-04 19:04:50
-
-Tags
-
-:   Tech
-
-Slug
-
-:   redhat-update-openssh
-
-Summary
-
-:   不知道为啥，国内漏扫软件都认openssh大量中危，而redhat官方却认为是小问题..
-
 ## Redhat 7.x
 
 创建工作目录

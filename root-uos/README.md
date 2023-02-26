@@ -1,40 +1,17 @@
 # 统信UOS激活root
 
-Title
-
-:   统信UOS激活root
-
-Date
-
-:   2021-12-09
-
-Modified
-
-:   2021-12-09
-
-tags
-
-:   UOS
-
-Slug
-
-:   root-uos
-
-Summary
-
-:   自己玩玩UOS的专业版，头个问题就是如何root。（linux竟然需要root也算奇葩）
 
 ## 缘起（怨气）
 
 初试UOS发现，root竟然被禁用，启用还需要激活系统（正版激活）...
 
-![image](%7Bstatic%7D/images/20211209205022.png)
+![image](20211209205022.png)
 
 ## 使用LiveCD
 
 既然uos用deb包，那么思路很显然会参考debian。先查看内核版本
 
-![image](%7Bstatic%7D/images/20211209205322.png)
+![image](20211209205322.png)
 
 内核版本是`4.19.0`那么猜测可以用debian 10的live CD试试破解root.
 
@@ -78,4 +55,4 @@ livecd的用户名是`user`
     sudo passwd root # 修改root的密码
     su - root # 切换到root
 
-![image](%7Bstatic%7D/images/20211209212341.png)
+![image](20211209212341.png)

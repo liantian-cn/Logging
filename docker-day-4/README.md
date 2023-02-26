@@ -1,29 +1,5 @@
 # Docker上手Day4（Nginx）
 
-title
-
-:   Docker上手Day4（Nginx）
-
-Date
-
-:   2019-07-09 19:50:19
-
-Modified
-
-:   2019-07-09 19:50:19
-
-Tags
-
-:   Tech
-
-Slug
-
-:   docker-day-4
-
-Summary
-
-:   在Docker中运行Nginx，注意nginx本身的一些坑。
-
 学习到了奇怪的知识点..
 
 -   日志重定向到 /dev/stdout
