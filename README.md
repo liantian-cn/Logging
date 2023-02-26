@@ -2,6 +2,9 @@
 
 # 这只是一个日志
 
+2022-09-09 [python中的asyncio入门](python-asyncio/)
+
+2022-09-02 [python的atexit永远好使么?](python-atexit/)
 
 2022-09-01 [python的unittest](python-unittest/)
 
