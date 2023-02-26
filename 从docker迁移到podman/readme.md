@@ -1,28 +1,6 @@
 # Docker上手Day X（迁移到podman）
 
-title
-
-:   Docker上手Day X（迁移到podman）
-
-Date
-
-:   2021-05-10 20:03:33
-
-Modified
-
-:   2021-05-10 20:03:33
-
-Tags
-
-:   Tech
-
-Slug
-
-:   docker-day-x
-
-Summary
-
-:   Podman 原来是CRI-O项目的一部分。Podman 的使用体验和Docker 类似
+Date:   2021-05-10 20:03:33
 
 安装：
 
