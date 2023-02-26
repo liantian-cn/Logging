@@ -1,3 +1,8 @@
+[comment]: # (Copyright 2022 github.com/liantian-cn)
+
+[comment]: # (Released under Attribution-NonCommercial-ShareAlike 4.0 International)
+
+[comment]: # (email liantian.me+code@gmail.com)
 
 # 卸载奇安信天擎的便捷化工具，测试于版本6.7
 

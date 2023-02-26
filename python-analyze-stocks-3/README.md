@@ -1,3 +1,9 @@
+[comment]: # (Copyright 2022 github.com/liantian-cn)
+
+[comment]: # (Released under Attribution-NonCommercial-ShareAlike 4.0 International)
+
+[comment]: # (email liantian.me+code@gmail.com)
+
 # 利用Python分析股票（三）：使用mplfinance快速绘制K线图
 
 

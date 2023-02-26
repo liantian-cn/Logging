@@ -1,3 +1,9 @@
+[comment]: # (Copyright 2022 github.com/liantian-cn)
+
+[comment]: # (Released under Attribution-NonCommercial-ShareAlike 4.0 International)
+
+[comment]: # (email liantian.me+code@gmail.com)
+
 # 在Linux系统中实现RunOnce功能
 
 ## 原理

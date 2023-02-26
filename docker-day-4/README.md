@@ -1,3 +1,9 @@
+[comment]: # (Copyright 2022 github.com/liantian-cn)
+
+[comment]: # (Released under Attribution-NonCommercial-ShareAlike 4.0 International)
+
+[comment]: # (email liantian.me+code@gmail.com)
+
 # Docker上手Day4（Nginx）
 
 学习到了奇怪的知识点..

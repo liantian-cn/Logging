@@ -1,3 +1,9 @@
+[comment]: # (Copyright 2022 github.com/liantian-cn)
+
+[comment]: # (Released under Attribution-NonCommercial-ShareAlike 4.0 International)
+
+[comment]: # (email liantian.me+code@gmail.com)
+
 # 利用Python分析股票（二）：pandas 、django 以及 jupyter notebook
 
 

@@ -1,3 +1,9 @@
+[comment]: # (Copyright 2022 github.com/liantian-cn)
+
+[comment]: # (Released under Attribution-NonCommercial-ShareAlike 4.0 International)
+
+[comment]: # (email liantian.me+code@gmail.com)
+
 # 不使用telnet测试网络连通性
 
 ## 用/dev/tcp

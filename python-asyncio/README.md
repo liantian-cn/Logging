@@ -1,7 +1,8 @@
-[comment]: # (This actually is the most platform independent comment)
-[comment]: # (This actually is the most platform independent comment)
-[comment]: # (This actually is the most platform independent comment)
-[comment]: # (This actually is the most platform independent comment)
+[comment]: # (Copyright 2022 github.com/liantian-cn)
+
+[comment]: # (Released under Attribution-NonCommercial-ShareAlike 4.0 International)
+
+[comment]: # (email liantian.me+code@gmail.com)
 
 # asyncio入门
 
