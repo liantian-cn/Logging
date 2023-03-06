@@ -2,6 +2,8 @@
 
 # 这只是一个日志
 
+2023--2-26 [AI绘图：安装Stable Diffusion web UI](install-stable-diffusion-webui/)
+
 2022-09-09 [python中的asyncio入门](python-asyncio/)
 
 2022-09-02 [python的atexit永远好使么?](python-atexit/)
